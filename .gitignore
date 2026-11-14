@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.env.local
+# Lead data must never be committed or deployed publicly
+public/demo/
+*.xlsx
